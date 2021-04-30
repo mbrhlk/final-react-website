@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import Home from './pages';
@@ -7,13 +6,12 @@ import SigninPage from './pages/signin';
 
 function App() {
   return (
-    // <Router>
-    //   <Switch>
-    //     <Route path="/"component={Home} exact />
-    //     <Route path="/signin"component={SigninPage} exact />
-    //   </Switch>
-    // </Router>
-    <p>test</p>
+    <Router>
+      <Switch>
+        <Route path="/" component={Home} exact />
+        <Route path="/signin" component={SigninPage} exact />
+      </Switch>
+    </Router>
   );
 }
 
