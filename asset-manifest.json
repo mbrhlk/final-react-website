@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/final-react-website/static/css/main.fa966f44.chunk.css",
-    "main.js": "/final-react-website/static/js/main.b034e66b.chunk.js",
-    "main.js.map": "/final-react-website/static/js/main.b034e66b.chunk.js.map",
+    "main.js": "/final-react-website/static/js/main.82560b55.chunk.js",
+    "main.js.map": "/final-react-website/static/js/main.82560b55.chunk.js.map",
     "runtime-main.js": "/final-react-website/static/js/runtime-main.430c697c.js",
     "runtime-main.js.map": "/final-react-website/static/js/runtime-main.430c697c.js.map",
     "static/js/2.327252e3.chunk.js": "/final-react-website/static/js/2.327252e3.chunk.js",
@@ -16,12 +16,13 @@
     "static/media/svg-2.f0d35e4f.svg": "/final-react-website/static/media/svg-2.f0d35e4f.svg",
     "static/media/svg-3.0e8cc137.svg": "/final-react-website/static/media/svg-3.0e8cc137.svg",
     "static/media/svg-4.450f2472.svg": "/final-react-website/static/media/svg-4.450f2472.svg",
-    "static/media/svg-5.8933f537.svg": "/final-react-website/static/media/svg-5.8933f537.svg"
+    "static/media/svg-5.8933f537.svg": "/final-react-website/static/media/svg-5.8933f537.svg",
+    "static/media/video.66090ad7.mp4": "/final-react-website/static/media/video.66090ad7.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.430c697c.js",
     "static/js/2.327252e3.chunk.js",
     "static/css/main.fa966f44.chunk.css",
-    "static/js/main.b034e66b.chunk.js"
+    "static/js/main.82560b55.chunk.js"
   ]
 }
